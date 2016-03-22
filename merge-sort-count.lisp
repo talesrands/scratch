@@ -1,3 +1,5 @@
+;; Author: Tales
+
 (defun supermerge (list1 list2 inv size-list1)
   (cond ((null list1) (values list2 inv))
 	((null list2) (values list1 inv))

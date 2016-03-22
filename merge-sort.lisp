@@ -1,3 +1,5 @@
+;; Author: Tales
+
 (defun merge-sort (alist &optional (size -1))
   (let* ((size (if (< size 0)
 		   (length alist)

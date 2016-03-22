@@ -1,0 +1,5 @@
+#+Title: README
+
+- Sempre usar nomes sem espaços ou acentos, trocando espaços por "-".
+
+- Sempre usar cabeçalho indicado autor e explicando código.
